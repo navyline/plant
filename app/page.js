@@ -9,10 +9,10 @@ export default function Home() {
       <div id="carouselExample" class="carousel slide">
       <div class="carousel-inner">
         <div class="carousel-item active">
-          <img src="/img/1.png" class="d-block w-100" alt="..."></img>
+          <img src="/img/1.jpeg" class="d-block w-100 h-20"></img>
         </div>
         <div class="carousel-item">
-          <img src="/img/2.png" class="d-block w-100" alt="..."></img>
+          <img src="/img/2.jpg" class="d-block w-100" alt="..."></img>
         </div>
       </div>
       <button class="carousel-control-prev" type="button" data-bs-target="#carouselExample" data-bs-slide="prev">
@@ -32,8 +32,8 @@ export default function Home() {
                     <img src="/img/11.jpg" class="card-img-top custom-img"
                         alt="Card Image"></img>
                     <div class="card-body text-center">
-                        <h5 class="card-title">Furina</h5>
-                        <p class="card-text">ตัวละครระดับ 5 ดาว</p>
+                        <h5 class="card-title">Plant</h5>
+                        <p class="card-text">Amazing Pant!!!</p>
                         <a href="#" class="btn btn-primary">Button</a>
                     </div>
                 </div>
@@ -44,8 +44,8 @@ export default function Home() {
                     <img src="/img/11.jpg" class="custom-img"
                         alt="Card Image"></img>
                     <div class="card-body text-center">
-                        <h5 class="card-title">Furina</h5>
-                        <p class="card-text">ตัวละครระดับ 5 ดาว</p>
+                        <h5 class="card-title">Plant</h5>
+                        <p class="card-text">Amazing Pant!!!</p>
                         <a href="#" class="btn btn-primary">Button</a>
                     </div>
                 </div>
@@ -56,8 +56,8 @@ export default function Home() {
                     <img src="/img/11.jpg" class="card-img-top custom-img"
                         alt="Card Image"></img>
                     <div class="card-body text-center">
-                        <h5 class="card-title">Furina</h5>
-                        <p class="card-text">ตัวละครระดับ 5 ดาว</p>
+                        <h5 class="card-title">Plant</h5>
+                        <p class="card-text">Amazing Pant!!!</p>
                         <a href="#" class="btn btn-primary">Button</a>
                     </div>
                 </div>
