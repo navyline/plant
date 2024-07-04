@@ -20,11 +20,11 @@ export default function About() {
           
        
           <p style={{ color: '#666' }}>
-          Email : adrhfjhfgdhghf@Ai.com
+          Email : 96165ghf@Ai.com
           <br></br>
           </p>
           <p style={{ color: '#666' }}>
-           เบอร์โทร : 841111158
+           เบอร์โทร : 64847158
           </p>
           
         </div>
